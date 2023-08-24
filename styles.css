@@ -80,7 +80,7 @@
 	border-top: 3vh solid black;
 	border-left: 2vh solid transparent;
 	border-right: 2vh solid transparent;
-	rotate: 90deg;
+	transform: rotate(90deg);
 	-webkit-transform: rotate(90deg);
 }
 #btn2::after {
@@ -90,7 +90,7 @@
 	border-top: 3vh solid black;
 	border-left: 2vh solid transparent;
 	border-right: 2vh solid transparent;
-	rotate: 270deg;
+	transform: rotate(270deg);
 	-webkit-transform: rotate(270deg);
 }
 
