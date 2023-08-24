@@ -80,6 +80,7 @@
 	border-left: 2vh solid transparent;
 	border-right: 2vh solid transparent;
 	rotate: 90deg;
+	-webkit-transform: rotate(90deg);
 }
 #btn2::after {
 	content: "";
@@ -89,6 +90,7 @@
 	border-left: 2vh solid transparent;
 	border-right: 2vh solid transparent;
 	rotate: 270deg;
+	-webkit-transform: rotate(270deg);
 }
 
 @media screen and (orientation: portrait) {
